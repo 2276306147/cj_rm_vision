@@ -6,8 +6,8 @@ WORKDIR /ros_ws/
 
 # clone projects
 RUN cd src && git clone https://gitlab.com/rm_vision/rm_auto_aim --depth=1 && \
-    git clone https://gitlab.com/rm_vision/ros2_mindvision_camera --depth=1 && \
-    git clone https://gitlab.com/rm_vision/ros2_hik_camera --depth=1 && \
+    git clone https://gitlab.com/rm_vision/ros2-mindvision-camera --depth=1 && \
+    git clone https://gitlab.com/rm_vision/ros2-hik-camera --depth=1 && \
     git clone https://gitlab.com/rm_vision/rm_gimbal_description --depth=1 && \
     git clone https://gitlab.com/rm_vision/rm_serial_driver --depth=1 && \
     git clone https://gitlab.com/rm_vision/rm_vision --depth=1

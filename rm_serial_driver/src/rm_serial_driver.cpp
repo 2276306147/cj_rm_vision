@@ -161,7 +161,6 @@ void RMSerialDriver::sendData(const auto_aim_interfaces::msg::Target::SharedPtr 
     packet.tracking = msg->tracking;
     packet.id = id_unit8_map.at(msg->id);
     packet.armors_num = msg->armors_num;
-    packet.buff = msg->buff;//添加buff开关
     packet.x = msg->position.x;
     packet.y = msg->position.y;
     packet.z = msg->position.z;

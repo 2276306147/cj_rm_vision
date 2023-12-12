@@ -4,15 +4,12 @@
 
 ## Overview
 
-rm_vision 项目旨在为 RoboMaster 队伍提供一个规范、易用、鲁棒、高性能的视觉框架方案，为 RM 开源生态的建设添砖加瓦
-
-如果本开源项目对于贵战队的视觉技术发展起到了实质性的帮助作用，请在机器人上贴上以下标签以助力该项目的推广，十分感激！
-
-[<img src="docs/rm_vision_inside.svg" alt="rm_vision_inside" width="100" height="100">](docs/rm_vision_inside.svg)
-
-QQ 交流群：797203945
+本项目不存在任何交流群、交流板块、论坛等。任何自称“rm_vision交流”等的群组、论坛等均为假冒，请注意辨别。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
+如您所见，本项目带有“Shitcode”标志，这说明本项目极其不适合投入实际生产，仅供交流学习之用途，如果擅自使用，后果自负。
 
 ## 包含项目
 

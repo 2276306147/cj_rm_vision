@@ -31,7 +31,7 @@ struct SendPacket
   bool tracking : 1;
   uint8_t id : 3;          // 0-outpost 6-guard 7-base
   uint8_t armors_num : 3;  // 2-balance 3-outpost 4-normal
-  uint8_t buff : 1; //将这里改成buff开关
+  uint8_t reserved : 1;
   float x;
   float y;
   float z;
